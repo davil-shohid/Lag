@@ -4,7 +4,7 @@ apt install python -y
 apt install git -y
 git clone https://github.com/davil-shohid/Lag.git
 cd Lag
-python lag.py
+python Lag.py
 ```
 # Username & Password
 ```
