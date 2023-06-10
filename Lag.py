@@ -1,5 +1,5 @@
 #! /usr/bin/env python 2.7.17
-#version1.0
+version = 1.0
 import os
 import sys
 import time
